@@ -4,7 +4,8 @@
 	usuários com essa biblioteca.
 		Caso queira entrar em contato com o Autor do código, você pode entrar no meu servidor no Discord, e
 	testar a minha Aplicação no Discord, com o nome Mizuhara um Bot de Diversão, Social, Moderação, Utilidades e NSFW.
-	Autor: Tia#1000
+	
+  Autor: Tia#1000
 	Website: https://www.mizuhara.tk/
 	Twitter: @BotMizuhara
   Meu Servidor: https://discord.gg/QraTZUq
