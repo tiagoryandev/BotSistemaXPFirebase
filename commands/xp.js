@@ -20,4 +20,4 @@ module.exports.run = async (client, message, args) => {
             return message.channel.send(`${user}`, embed); // Envia a embed mencionado o user
         };
     });
-};
+}
