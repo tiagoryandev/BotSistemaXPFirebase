@@ -12,6 +12,6 @@ const database = firebase.database(); // Definição do banco de dados
 
 module.exports.run = async (client, message, args) => {
   //Código
-}
+} 
 ```
 
