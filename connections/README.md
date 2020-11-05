@@ -24,5 +24,5 @@ let fire = () => {
 };
     
 module.exports = fire;
-```
+``` 
 
