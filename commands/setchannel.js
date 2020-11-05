@@ -42,4 +42,4 @@ module.exports.run = async (client, message, args) => {
             return message.channel.send(`${message.author}`, embed); // Envia a embed mencionando o autor
         };
     });
-};
+}
