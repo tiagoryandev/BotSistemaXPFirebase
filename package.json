@@ -1,7 +1,7 @@
 {
   "name": "botsistemaxp",
   "version": "1.0.0",
-  "description": "Bot com Sistema de XP",
+  "description": "Bot com Sistema de XP.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
