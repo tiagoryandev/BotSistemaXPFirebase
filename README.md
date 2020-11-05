@@ -18,7 +18,7 @@ Caso queira entrar em contato com o criador do código, para tirar algumas duvid
 
 **Outros Projetos**: Mizuhara Bot
 
-#### :paperclip: LINKS:
+#### :paperclip: LINKS: 
 
 * [Discord Suporte](https://discord.gg/QraTZUq)
 * [Twitter Mizuhara](https://twitter.com/BotMizuhara)
