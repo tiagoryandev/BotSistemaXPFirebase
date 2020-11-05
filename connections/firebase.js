@@ -14,6 +14,6 @@ let fire = () => {
     
     firebase.initializeApp(configF); // Loga com os dados do banco de dados
     console.log(`[FIREBASE] - Conectado com Sucesso!`); // Envia uma notificação que o seu banco de dados foi logado com sucessp
-};
+}; 
     
 module.exports = fire; // Exporta a função fire, onde vai realizar todo o processo
