@@ -1,3 +1,5 @@
+> Esse repositório não receberá atualizações.
+
 # :beginner: **BOT COM SISTEMA DE XP**
 ---
 Esse Bot foi feito para ajudar os programadores a usarem o **Firebase** em seus projetos, esse código mostra como fazer um Bot com **Sitema de XP** usando **Firebase** de modo simples, lembrando que esse as dependências usadas vão ser listadas abaixo. Também esse código também é usado na **Mizuhara Bot**, para seu sistema de xp.
